@@ -1,0 +1,28 @@
+{
+    "files": [
+        "main.py",
+        "qml/main.qml",
+        "assets/images/magnifyingglass.svg",
+        "assets/images/envelope.fill.svg",
+        "assets/images/message.fill.svg",
+        "assets/images/phone.fill.svg",
+        "assets/images/video.fill.svg",
+        "qml/components/ContactList/ListItemDelegate.qml",
+        "qml/components/ContactList/SectionDelegate.qml",
+        "qml/screens/ViewContact.qml",
+        "qml/screens/ContactList.qml",
+        "qml/components/ViewContact/ListItemDelegate.qml",
+        "qml/models/contacts.json",
+        "qml/components/customs/SearchTextField.qml",
+        "qml/screens/NewContact.qml",
+        "assets/images/person.crop.circle.fill.svg",
+        "assets/images/person.crop.circle.svg",
+        "assets/images/circle.fill.svg",
+        "assets/images/xmark.circle.fill.svg",
+        "qml/models/NewContactModel.qml",
+        "qml/components/NewContact/ListItemDelegate.qml",
+        "qml/components/customs/NewContactTextField.qml",
+        "qml/components/NewContact/AddComponent.qml",
+        "qml/components/customs/Splitter.qml"
+    ]
+}
